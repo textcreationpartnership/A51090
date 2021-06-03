@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A modest attempt for healing the present animosities in England occasion'd by a late book, entituled, A modest enquiry, &amp;c., in a dialogue between Testimony, a zealous dissenter, and Hot-head, a chollerick bigot : Trimmer, moderator.</title>
+         </titleStmt>
+         <extent>Approx. 47KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51090</idno><idno type="EEBO-CITATION">13033138</idno>
+  <idno type="VID">96785</idno>
+  <idno type="EEBO-PROQUEST">2240866827</idno>
+  
+            <idno type="STC">Wing M2359</idno>
+            <idno type="STC">ESTC R16430</idno>
+            <idno type="OCLC">13033138</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96785)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 745:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A modest attempt for healing the present animosities in England occasion'd by a late book, entituled, A modest enquiry, &amp;c., in a dialogue between Testimony, a zealous dissenter, and Hot-head, a chollerick bigot : Trimmer, moderator.</title>
+               </titleStmt>
+               <extent>28 [i.e. 30], [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Modest enquiry into the causes of the present disasters in England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96785:1"/>
+            <p>A MODEST ATTEMPT For Healing the Present Animosities IN ENGLAND. Occasion'd by a late BOOK, Entituled, <hi>A Modest Enquiry, &amp;c.</hi> IN A DIALOGUE between <hi>Testimony,</hi> a Zea<g ref="char:EOLhyphen"/>lous Dissenter; and <hi>Hot-head,</hi> a Chollerick Bigot; <hi>Trimmer,</hi> Moderator.</p>
+            <p>LICENS'D, <hi>Aug.</hi> 4. 1690.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Janeway,</hi> in <hi>Queens-Head-Alley</hi> in <hi>Pater-Noster-Row.</hi> MDCXC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96785:2"/>
+            <pb n="3" facs="tcp:96785:2"/>
+            <head>A MODEST ATTEMPT, <hi>&amp;c.</hi>
+            </head>
+            <div type="introduction">
+               <head>THE INTRODUCTION,</head>
+               <p>OR, if you please, the <hi>Prologue</hi> before this <hi>Farce, Comedy,</hi> or what the Reader thinks fit to call it: How stark mad beyond <hi>Moor-fields</hi> or Hellebore, the Red-hot Bigotts of both sides have lately bin, on the appearance of such a Spectrum of a Book, as has allarm'd us more than the <hi>French</hi> Fleet, Gallies and all into the Bargain! How carefully this has been handed about, oracu<g ref="char:EOLhyphen"/>lously receiv'd, and kindly entertain'd by some! how fearfully disapprov'd and damn'd by others; some believing all, others nothing, others still more than all therein contain'd! And upon the whole, what an unlucky Bone of Contention it has prov'd, at such a Juncture as we ought to be most closely united against the common Enemy! Of these things none can be ignorant, who for some Weeks last past has lived any where but in a Desart. The In<g ref="char:EOLhyphen"/>tention of what follows, is without medling with
+<pb n="4" facs="tcp:96785:3"/>things above the Sphere of ordinary Converse, to represent the great <hi>Furioso</hi>'s on either hand in their own Colours, to dress 'em in their own distorted Faces, tho' 'tis odds but they'll be ready to break the Glass that endeavours it. To shew the madness and unreasonableness as well as danger in any such de<g ref="char:EOLhyphen"/>sperate Heats as almost share the <hi>English</hi> World be<g ref="char:EOLhyphen"/>tween 'em, fairly deduced from the Practices and expressions of the great Sticklers therein: Nor should the Pleasantness of the Style be any Objection against it, since if both Partyes can but be put into so good a humour, as to unbend their Browes, and laugh at their own and others Extravagancies, ten to one but they'l quickly grow Friends, and be asham'd and leave 'em: One Reason for which I've intro<g ref="char:EOLhyphen"/>duced <hi>Trimmer</hi> for a Moderator, is to stave and Tail between the two furious Combatants, when villa<g ref="char:EOLhyphen"/>nously fasten'd together, and lugging one anothers Throats out: And if after all he gets nothing for his Pains, as 'tis very likely he will not, besides a snap from both sides, he'll e'ne get out of the way, and let 'em fight Dog, fight Bear, 'till both are weary.</p>
+            </div>
+            <div type="dialogue">
+               <pb n="5" facs="tcp:96785:3"/>
+               <stage>
+                  <hi>Enter</hi> Testimony <hi>and</hi> Hot head. (Testimony <hi>reading The Modest Enquiry.</hi>)</stage>
+               <sp>
+                  <speaker>Hot-head.</speaker>
+                  <p>WHat Poyson is that Viper sucking in there? I'll lay my Life 'tis some damn'd piece of Roguery or other against the Church, or Lampoon upon the Bishops, he's so pleas'd, and snickers at it while he's reading it.</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>Viper in thy Face, and all thy own Poy<g ref="char:EOLhyphen"/>son, thou Hell-bred Tory — thou Snake that lyest working and gnawing at the Heart of the Government, with a Pope and K. <hi>James</hi> both at once tumbling in thy Belly — Well — 'twill never be well with <hi>England,</hi> as my Author here prettily hints it, 'till all such Rogues are punish'd indeed, and your Veins open'd, to let out the Venom that lurks within them.</p>
+               </sp>
+               <sp>
+                  <speaker>Hot-head.</speaker>
+                  <p>Sirra! Phanatick! Hell-hound! hast thou got that pestilent Pamphlet among all the rest of thy Whiggish Libels? — I'le prove upon thy Carrion Carkass both that thou art a Villain for having it, and that 'tis all one damn'd Lye from the begin<g ref="char:EOLhyphen"/>ning to the end on't — That there was never any Plot or Conspiracy, unless among your Rogues, to trump up Old Puss again — never any Treachery, Cowardise, Disasters, <hi>French</hi> Fleet, nor nothing at all — Draw quickly, Sirra, that Lumber of a Wea<g ref="char:EOLhyphen"/>pon, and fight, or I'le pin thee to the Wall, without giving thee so much as time to whine thy Prayers out before I send thy Soul to the —</p>
+               </sp>
+               <pb n="6" facs="tcp:96785:4"/>
+               <stage>
+                  <hi>Enter</hi> Trimmer.</stage>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>Very loud Gentlemen, and angry, your posture threatens worse, which I shall be happy if I can prevent; you are both my old Friends, and I'd be glad to accommodate the business between ye, if I might know the Cause, which I guess is still the old one.</p>
+               </sp>
+               <sp>
+                  <speaker>Hothead.</speaker>
+                  <p>Yes, 'tis the <hi>Old Cause</hi> with a Vengeance: I smell a Rump as strong as if 'twas Roasting: Here's 41 and 48 all over, and till they have done on't, I never will: They are all Enemies to Prelacy and Monarchy, nothing but Root-and Branch-work will down with 'em now they are grown so Rampant, and here's a fair Lift at 'em both — Let me come at him — Rascal — how he leers with his Holy-Jaws and chalky Eyes — I'le ram that cursed Book down his Throat, 'till it comes out agen, and make him cat it afterwards.</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>No wonder that a Malefactor shou'd be willing to tear his Indictment, and a Thief be not very well pleas'd at the sight of a Halter — In very deed he has set ye out, and painted ye in your own dirty Colours to some purpose — all your Lo<g ref="char:EOLhyphen"/>custs, the dreggs and spawn of the Whore — the great numbers of your disaffected Clergy, that Plot to bring in the Pope and Devil agen, your one and all in dipt, over Head and Ears — I'le not bate ye an Ace — not a Rag of Crape, or Skirt
+<pb n="7" facs="tcp:96785:4"/>of the Whores Smock among you, but are hereby polluted, defiled, and contaminated, even to abomi<g ref="char:EOLhyphen"/>nation — Ah — this honest Man here shows the true way to reform ye, to which I'd willingly lend my helping hand, and had began with thee, thou Limb of the Serpent, had not this self-seeking <hi>Trim<g ref="char:EOLhyphen"/>mer</hi> interrupted me in so good a work.</p>
+               </sp>
+               <sp>
+                  <speaker>Hot-head.</speaker>
+                  <p>Nay, this wou'd make St. <hi>Michael</hi> Swear. Out of the way thou Motley-thing — thou State-Hermophrodite, and little Go-between, that art as much a Fanatick in thy Heart as he himself, or I'le stick ye both like Froggs, one a top t'other.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>So, here am I like to make a very hope<g ref="char:EOLhyphen"/>ful business on't; in a fair way to be used as the Rams did their Judge, stand still in the middle, 'till both your Horny Faces thump my Guts out. — Has Nature given you two nothing but Tongues and Hands? or are your Ears thrown by, and never made use of?</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>Whichever of us are in the right, such lukewarm Wretches as thee are sure to be in the wrong, for neither of us can endure thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>The more likely I to be in the right: If you two miss the Jack, one two short, and t'other a mile beyond it, I must needs be the best Cast that lye just betwixt ye. When the Hare neither takes the right nor the left-hand way, a very Hounds Syllogism concludes she's in the middle. And do but consider your own Wisdom, to attempt to throw me over-board, only for keeping the Boat even, when you two are swagging it o' both sides,
+<pb n="8" facs="tcp:96785:5"/>and take so much mistaken Pains to drown your selves and one another.</p>
+               </sp>
+               <sp>
+                  <speaker>Hothead.</speaker>
+                  <p>I'le defer my Vengeance a little while, to convince ye, if there's any Justice in a <hi>Trimmer,</hi> what Reason I have for my Resentments that I can tell, and when that's done, for a <hi>Second,</hi> I'le admit and thank you, but as a <hi>Mediator</hi> I don't desire your help, and assure ye, when e're you undertake it, you'l find it a very thankless office.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>I'me content to meet that and worse in the discharge of my Duty and Honour, but hope bet<g ref="char:EOLhyphen"/>ter than both, for I see our Friend <hi>Testimony</hi> recovers as well as you, and begins to look less pale, than at the first Rencounter.</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>Tho' I am not to be moved from Prin<g ref="char:EOLhyphen"/>ciples and matter of Fact, yet I'm willing to hear what my Enemy can say against me, in hopes to make you a Convert, tho' he's desperate, and I've quite given him over.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimer.</speaker>
+                  <p>Shall I have both your honest words, to reason calmly, and will you consent to a Truce for an Hours time, 'till the Discourse is ended.</p>
+               </sp>
+               <sp>
+                  <speaker>Both.</speaker>
+                  <p>Agreed.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>I think you are both Plaintiffs and De<g ref="char:EOLhyphen"/>fendants, so 'tis no great matter which speaks first: But since he seems the Party most griev'd, let <hi>Hot<g ref="char:EOLhyphen"/>head</hi> begin.</p>
+               </sp>
+               <sp>
+                  <speaker>Hot-head.</speaker>
+                  <p>Can any thing be plainer, than that the utter Destruction of the Church is in<g ref="char:EOLhyphen"/>tended by these Fellows, and han't we as good as their own Confession, that nothing less will
+<pb n="7" facs="tcp:96785:5"/>please 'em. Their very names enough, were there no more, and Fire and Water are less contrary then <hi>Whig</hi> and <hi>Tory,</hi> nor is there any more likelihood to accom<g ref="char:EOLhyphen"/>plish, or reason to attempt any accomodation between 'em. None but such as they are encouraged, and Fellows fetcht out of Jails set up to be our Masters. What safety or protection can we expect while things are thus, and such notorious Fanatics so much in request every where. 'Tis insufferable the abuses and insults met with from that sort of Cattle by honester men than themselves, To all the rest they have added this new affront, ripping up old sores, endeavouring to set the Mob at us as Traytors to the Goverment, and villainously exposing us as far as lies and impudence can help 'em. Till things are at last come to such heighth, assisted by the success they have met with in <hi>Scotland,</hi> that of necessity either we must cut their Throats, or they will ours, and what we do is in meer self defence.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer,</speaker>
+                  <p>Ill news indeed wer't true — But <hi>Testimony</hi> what answer d'ye make to all this?</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony,</speaker>
+                  <p>I answer with my directer, <hi>That 'tis nothing but a persecuting spirit acts their whole party, and all their desire is to be uppermost again, to ruin us and bring in their Idolized King</hi> James, <hi>after they had so long dinn'd all</hi> Eu<g ref="char:EOLhyphen"/>rope <hi>with complaints of their triffling afflictions and griev<g ref="char:EOLhyphen"/>ances in order to get them out. A Toleration for Papists they wou'd easily have swallowed, but immediately flew out as soon as abridged of their beloved Power to trample Dissenters. We han't forgot what formerly we did suffer; nor are insen<g ref="char:EOLhyphen"/>sible of what the Nation now feels, and might have done more had not a strange providence disappointed their devices.
+<pb n="8" facs="tcp:96785:6"/>We owe this to the Clergy as well as all our other miseries and disasters, for the Clergy were the great contrivers and ma<g ref="char:EOLhyphen"/>nagers of all— But there are some people in the world, who when any signal misfortune befall their state, they immedi<g ref="char:EOLhyphen"/>ately offer up to their angry Deities some of their Priests as a sacrifice to attone their wrath, because they might have taught 'em better, to have pleased the Gods so as not to provoke 'em to in flict such judgments on 'em, and 'tis a wonder indeed the Nation has not done the like on their being lately forc'd to turn their backs to the French at sea, and punish'd some of 'em for having brought all this upon 'em.</hi> For the world is weary of being Priest-ridden, and is resolved now to be so no longer.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer,</speaker>
+                  <p>And you think now you have sufficiently answered all he has urged against you!</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony,</speaker>
+                  <p>Yes, and a great deal more.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer,</speaker>
+                  <p>You are both still the same, and are so used to shoot beyond the mark, 'tis a wonder how you ever chance to hitt one another. I see I must e'ne answer ye both or else not much will be said to the purpose. Your first complaint Mr. <hi>Hothead,</hi> is, that no less then the utter destruction of you and the Church is intended, Reason enough to make you uneasie— but one conside<g ref="char:EOLhyphen"/>rable Question ought here to be put in. Who shall do this? Not those at Helm themselves, for they are of the same Faith with you, though a great deal more Charity. Not your Enemies among either the great or small Mobile, For though some few of 'em, and Friend <hi>Testimony</hi> among the rest may want no good will to do it, they
+<pb n="9" facs="tcp:96785:6"/>must stay till they have power, they have no Armies concealed at <hi>Knights-bridge,</hi> and sure thousand men will hardly do it? If the very appellation of <hi>Whig</hi> and <hi>Tory</hi> sets you by the Ears, remember 'tis chil<g ref="char:EOLhyphen"/>drens play indeed to call names and thence fall to Logger-heads, a word and a blow in the worst sense of the proverb, However rage and prejudice blinds you, when you say, none but such are pre<g ref="char:EOLhyphen"/>ferred and encouraged, unless you'l call all so, who are firm to the present Goverment. Was there ever a Reign that knew a more equal distribution of Favours, that oblige more, and justly offended few<g ref="char:EOLhyphen"/>er then this has done? If those are now on your Benches who formerly were in your prisons, say no more, but blush for shame when you remember who brought 'em thither and for what cause, for if that were in its self of any weight you must condemn Apostles and Martyrs. That any should be so fool<g ref="char:EOLhyphen"/>ish or wicked to complain of partiality towards Dissenters! which looks very ill-favouredly to<g ref="char:EOLhyphen"/>wards sharpning their objection, that you are only angry because you ca'nt trample on 'em still. Very probably some of them, or others whom you call <hi>Whigs</hi> may offer you affronts hard enough to be digested, may sometimes abuse and falsly scandalize you, and I wish in all they object against you they did no otherwise; you ought to have a care both of your selves and others, for a hot man injures all his party as well as himself. It had been happy for <hi>Eng<g ref="char:EOLhyphen"/>land</hi> had their been no occasion for some complaints made against you and if once the love of the people is lost, 'tis not so easily gained again, and some al<g ref="char:EOLhyphen"/>lowance
+<pb n="10" facs="tcp:96785:7"/>must be made to the ill temper, an ill acci<g ref="char:EOLhyphen"/>dent or little fret puts men into—, it infects their mind with a kind of an Aguish distemper, in which they do nothing but shake and tremble, and throw up abundance of Choler and ugly stuff not very pleasant afterward either to themselves or those about 'em. Nay, shou'd their resentments go beyond their bounds, methinks a generous man should hardly take 'em very hainously, since 'tis mistaken zeal and love for their Countrey which may for the most part drive 'em into those unwar<g ref="char:EOLhyphen"/>rantable extremities. Besides, knowing too well where to fix the accidental cause of most of the mis<g ref="char:EOLhyphen"/>fortunes which have lately befaln us, they are to be pittyed as much as blamed for laying on load a little too well favouredly.</p>
+                  <p>After all, shou'd any be so imprudent or wicked to endeavour fixing the greatest and most barbarous of injuries on your persons, there is God-be-thank<g ref="char:EOLhyphen"/>ed, a Government to defend you— If there are any persons so much in love with so humble a Glo<g ref="char:EOLhyphen"/>ry that they are ambitious to succeed Captain <hi>Tom,</hi> and Halloo the Mob at you, the State is not so weak that it can't find Guards enough for you, and Hal<g ref="char:EOLhyphen"/>ter for them, in the mean while words will break no bones, and you may have an easie exercise of the Philosophy to contemn them. For after all the Water will roar and run through Bridge, though you shou'd break your back and heart to hinder it.
+<pb n="11" facs="tcp:96785:7"/>The many will be like it self if it dislike any thing 'twill talk big and loud, and roll on with Mud and Fury, but can't you stand aside and let it run by, which 'twill not fail to do with no less swiftness then noise, having this advantage and excuse too for both, that it streams run all the same way, and that now by chance in the Right Channel.</p>
+                  <p>For <hi>Scotland,</hi> the trite Common-place of you High-Flyers, whats that to us? They have their Laws and we ours, and ours as Sacred here as Theirs are there—. But tis no wonder if Fear, Doubt, Prejudice and Anger draw Reasons from Similitudes and Comparisons, Arguments good e<g ref="char:EOLhyphen"/>nough for such ill arguers—. Is there no difference I'd fain know, between the genius of a Nations ly<g ref="char:EOLhyphen"/>ing one way or 'tother, between inveterate preju<g ref="char:EOLhyphen"/>dice against and for persons, or things and forms of Government. Lastly between a Gentry and Parli<g ref="char:EOLhyphen"/>ament at one End, and firm original Laws at the the other, engaging for or against such or such a par<g ref="char:EOLhyphen"/>ticular way of Worship? Till you answer all these been't angry with your Neighbours, especially con<g ref="char:EOLhyphen"/>sidering what well deserves a thought, that persons of your temper have in all probability conduced more to any change there, then any other Argu<g ref="char:EOLhyphen"/>ment.</p>
+               </sp>
+               <pb n="12" facs="tcp:96785:8"/>
+               <sp>
+                  <speaker>Testimony,</speaker>
+                  <p>A very Edifying discourse this,— How I love this healing temper, and these moderate men; and how unjustly does my adversary blame me for being averse to all calm and uniting me<g ref="char:EOLhyphen"/>thods?</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer,</speaker>
+                  <p>Yes I have always observ'd you love moderation well when 'tis o' that side, that is when others not you are advised to it. If you continue in the same mind after you have heard your part, I shall be very happily mistaken.</p>
+                  <p>I remember how loudly you formerly complained when <hi>Touzer</hi> my good Friend and yours, used to pinch and worry you with the din of Forty One or Forty Eight, ringing as many changes on those numbers as if they had been as many Bells. This you thought neither fair nor prudent to ript up old sores past so many years, revive their memory and odium, and set the Nation a madding one against t'other, as justly you urged, as <hi>Heylen</hi> charges you, because hee'd be sure to go high enough with the Rebellion of <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> and makes them and all their Company as rank Presbyterians as any in <hi>Geneva.</hi> Your complaint was by all good men allowed to be just, and at last the subject and relator grew alike odious— Why do you in this so and many other instances, follow what so little while since you have condemn'd.</p>
+                  <pb n="13" facs="tcp:96785:8"/>
+                  <p>All the Extravagancies of the Two last Reigns, all the ebullitions of Fear, or Prejudice, or other Humane Passions, during the high and unnatural ferment the Nation was then in, must be trumpt up anew, drest and coloured as freshly and lively as if transacted but yesterday, and nothing since had intervened, in some measure, to ballance com<g ref="char:EOLhyphen"/>plaints and wrongs. Is't not, to Reason fairly, a very odd sort of an Argument to prove <hi>the Clergy were the chief managers of Affairs and Causes of bringing the</hi> French <hi>Fleet into the Channel,</hi> in the Year 1690; because perhaps in 78, or 80, a dull Parson (and you can't expect a Doctor of Divinity in a place where it seems you'll allow but Ten Pounds a Year, without so much as a Pudding in) shou'd on the 30th of <hi>January</hi> Preach up Passive-Obedience, or Persecution of Dissenters— Com<g ref="char:EOLhyphen"/>mend me to <hi>Testimony</hi>'s Chain of Thoughts, how<g ref="char:EOLhyphen"/>ever they talk of <hi>Hobbs</hi>'s. Is't not as good Rea<g ref="char:EOLhyphen"/>son as ever 'twas, —<hi>Why are these things ript up to the disturbance of the Peace of the Nation?</hi> And hareing perhaps six parts in seven almost out of their Senses, with perswading 'em all their Parsons wear Cloven-Feet under their Crape, have cer<g ref="char:EOLhyphen"/>tainly betray'd 'em to the <hi>French,</hi> and writ down their very Names (in invisible Characters,) on the backside of the Memorial?— Besides,— are the Clergy the only Men to be struck at,— None but they to bear the brunt of a Popular Tumult?— Is there no Sence left in <hi>England</hi> of that respect which even <hi>Barbarians,</hi>— and those in <hi>Asia</hi> too,
+<pb n="14" facs="tcp:96785:9"/>bear for Persons of that Character? Will it be said more of them proportionably then of other facul<g ref="char:EOLhyphen"/>ties or bodies of Men are disaffected? This is not so easily prov'd as said.— Those who affirm it, too much oblige the <hi>Jacobites</hi> Party. Generals can only be argued from particulars. Consult the <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Pulpits, and see if there's any sort of Men in <hi>London</hi> who are more generally firm to the present Government, who have fewer disaffected Members among 'em—. Judge not Hearts, that's Gods work; we speak of Actions, those only come un<g ref="char:EOLhyphen"/>der our observation. Enquire on, at <hi>Cambridge</hi> and <hi>Oxford,</hi> and see if you han't the same Returns made. That there are some, and too many even of this Character, turbulent, heady, high-minded, is as true as that the visible Church will have al<g ref="char:EOLhyphen"/>wayes some ill Members till 'tis Triumphant. Here's the Quarrel,— all are blamed, or they are so <hi>Inde<g ref="char:EOLhyphen"/>finitely,</hi> which every School-Boy knows mounts to the same,— the stress, the point of all accusations are worded against the <hi>Clergy in general,</hi> and then after the World is thoroughly infected with such ill notions of 'em, I appeal to any one what avails a lame restriction at the last, and protesting,— <hi>I did not intend any affront to any of those worthy Gentlemen who deserve well of the Government, but highly honour and esteem them</hi>—. Why all this looks like a perfect banter, and will in spite of the World, what e're was intended, be alwayes esteemed no better.</p>
+                  <pb n="15" facs="tcp:96785:9"/>
+                  <p>By a <hi>persecuting Spirit</hi> as you call it, which you charge 'em with, you mean either a general Incli<g ref="char:EOLhyphen"/>nation in the Party to destroy you and all others, or else only some particular Men of worse or warm<g ref="char:EOLhyphen"/>er Tempers who are uneasie if others are not so. If the first you are unjust, if the latter very weak, for that very many among those whom you so heartily hate are as much for moderating mat<g ref="char:EOLhyphen"/>ters as possible, and more had been so, had not you frighted 'em out on't, none can with any pretence to modesty deny. Who but a Body of Men, Members of that Church you love so little, have given you as to your Consciences all the ease you cou'd desire; and if there are still some, nay many <hi>Hot-heads</hi> among 'em, you have <hi>Testi<g ref="char:EOLhyphen"/>monies</hi> enough o' Conscience to give 'em a <hi>Row<g ref="char:EOLhyphen"/>land</hi> for their <hi>Oliver.</hi> Never was any Party in any place in the World for any considerable time uppermost, but they were inclined to press hard on those beneath 'em, never any under, but they complain'd of Persecution. Shew me any Sect here in <hi>England</hi> that was not for crushing all the others as a sort of putredinous Vermin, whenever 'twas in their power; a weakness perhaps almost inseparable from Humane Nature. But with what Reason or Manners this shou'd now be urged, and with what Loyalty you can look back be<g ref="char:EOLhyphen"/>yond an Act of Grace (as you used formerly to urge for your selves against others) I know not who amongst you is Casuist enough to resolve me. You tell us they dinn'd all <hi>Europe,</hi> with their <hi>Trifling Afflictions,</hi> and <hi>Trifling Grievances,</hi>
+                     <pb n="16" facs="tcp:96785:10"/>and wou'd not let the then Prince of <hi>Orange</hi> alone, till he <hi>came over to redress them?</hi> But how far does <hi>Testimony</hi> here outrun both Truth and Mo<g ref="char:EOLhyphen"/>desty? I ask, Was it only they who invited the Prince over? You do them a great Honour? were those <hi>Grievances</hi> only <hi>Trifling ones</hi> which he came to redress? where's your Sence, Truth, Civi<g ref="char:EOLhyphen"/>lity and Loyalty? I always thought, and so did all <hi>Europe,</hi> that 'twas the common Cause of Re<g ref="char:EOLhyphen"/>ligion and Liberty, no <hi>Trifling</hi> things, was then in the highest danger, and that the then Prince, our now gracious Soveraign, who uses not to un<g ref="char:EOLhyphen"/>dertake such Enterprizes on <hi>Trifling</hi> Reasons, was sent, like an Arm from Heaven to save <hi>both</hi> when just sinking, as his Declaration told the World. If he did not come to <hi>fasten every Pin or Nail in</hi> Canterbury <hi>or</hi> Lambeth, he came at least to secure the main <hi>Pillars and Beams</hi> of their Roofs, as he has often since assured 'em; not to <hi>pull 'em all down</hi> as flat as the Hugonots Temples in <hi>France,</hi> as no doubt, <hi>Testimony!</hi> you expected and desired, and as you are, so there's no fear but you will still be deceiv'd in your Expectations. Your angry Imputation that they would willingly have swal<g ref="char:EOLhyphen"/>low'd a Toleration for the Papists, if that cou'd have been had without easing the Dissenters, is so far from having any ground, that the con<g ref="char:EOLhyphen"/>trary is notorious, both from matter of Fact and common Reason. Had they join'd with the Papists, can any one suppose the Court had not easily attain'd their Ends, or wou'd King <hi>James</hi> have thrown them off on purpose out of pure
+<pb n="17" facs="tcp:96785:10"/>kindness to the Dissenters, or respect to their tender Consciences. I thought you had long be<g ref="char:EOLhyphen"/>fore known there was no Love lost between you. Let the World judge what fair play is to be expected from Men of your Temper, when the best and fairest Actions in the World are thus represented, when such Interpretations are Wire-draw'd from 'em that look as if just spit out of the Mouths of a <hi>Peter</hi>'s or a <hi>Jeffery</hi>'s. Is this your Love to the Government, thus to bespatter its best and firmest Friends, who have contributed so much to our happiness, where<g ref="char:EOLhyphen"/>as <hi>Testimony!</hi> you were little more than the Fly on the Wheel, crying out, What a Dust do we make?</p>
+                  <p>But here is still a Body of Men <hi>indefinitely</hi> charg'd with Consults, Intrigues, Invitations and Attempts to bring the <hi>French</hi> upon us; and burn our Ships; and Towns, and us too, there's no doubt, as soon as they had done the other; sure there is a Law for such as are guilty of all this, whose Resentments can't but be severe enough against such Persons as are really concern'd. But a<g ref="char:EOLhyphen"/>las, that requires calm, fair and legal Proof, and a sober Bench and Jury to be Judges in the case whereas proof being wanting, the more Compendious way must be taken, the Mob erected into a <hi>High Court of Justice,</hi> and you Mr. <hi>Testimony</hi> the <hi>President</hi> on't, where without those common dull formalities the Parties are convicted <hi>per Saltum,</hi> and the Judges are ready to be Executioners.</p>
+                  <pb n="18" facs="tcp:96785:11"/>
+                  <p>'Tis strange that only a vast confidence should pass for argument with any who pretend to be men either of Religion or Reason. Call, Ask, Challenge, again and again, demand the Names of those Persons accused of the blackest and most heinous of Villanies — you can't get a word, not one single Letter of their Names — nothing but common prejudices and such unhappy Reasons as yet must be stretcht with a vengeance to draw any such consequence from 'em— but where's the proof of a formal Design by these Men so broadly every where hinted at— If you know, <hi>Testimony!</hi> speak now, or for shame for ever after hold your peace!</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>It mayn't be yet convenient— There's a time for all things. D'ye think such things would ever be so positively affirmed if there were not somewhat at the Bortom, nay, proof and assurance of the truth of what's assert<g ref="char:EOLhyphen"/>ed.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>That's all—and you have now fairly prov'd one Supposition by another. <hi>Hot head</hi> is eager enough, I'm satisfied, and would as willingly be at you as you at him, but I'll never believe without better argument than have yet heard or am like to hear, that he'll be such a Villain to Sacrifice his Country to his particular piques and private Revenge. You say 'tis n't yet time to in<g ref="char:EOLhyphen"/>stance — Is't not a time either to discover Traitors, or clear honest Men-Here's a body of Men charged the very Lump must be lookt on guilty (and that's it indeed you seem to drive at,) for want of have<g ref="char:EOLhyphen"/>ing
+<pb n="19" facs="tcp:96785:11"/>it fix'd on some Individuals. Why do's not the Government then seize these Persons? the Law is open; why are they not Inform'd against? are not greater Persons than they can be presumed, daily Se<g ref="char:EOLhyphen"/>cured? No, no, <hi>Testimony!</hi> You had never such a vast kindness for Mr. <hi>Hot-head,</hi> any of his Friends, as to conceal their Treasons, if ye knew any thing of the matter, and venture a hanging to keep them from the same Fate.</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>If you were not a Jacobite your self, or a Well-willer to their Cause, you'd never thus go to vindicate 'em. What! don't all the world know these are for King <hi>James?</hi> don't they refuse to own the Present Government, and still pretend themselves what the last Reign made 'em? None but such as shut their Eyes, and are wilfully blind and hardened can deny all this.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>Softly Mr. <hi>Testimony</hi>—Here's a whole Rope of Fallacies as long as a Chain of Snakes Eggs. First, you Implicitly charge all the large and ancient Family of the <hi>Hot-heads</hi> with being Jacobites— an Imputation very many of 'em so much resent, there would certainly be Murder be<g ref="char:EOLhyphen"/>tween them and the <hi>Testimonys,</hi> cou'd they get together, tho' much better were this eagerness turn'd the other way, and the only quarrel be<g ref="char:EOLhyphen"/>tween 'em who most loved their Country and opposed its Enemies.</p>
+                  <p>Again— you suppose it one and the same thing to have any scruples against the present Go<g ref="char:EOLhyphen"/>vernment, to be dissatisfied in Conscience con<g ref="char:EOLhyphen"/>cerning it, and to Plot its destruction by bring<g ref="char:EOLhyphen"/>ing
+<pb n="20" facs="tcp:96785:12"/>in the <hi>French</hi> upon it— search deep, and there lies the Core of all; for how vastly diffe<g ref="char:EOLhyphen"/>rent may these two be one from another? You shou'd prove, as has been boldly enough affirm'd, that all these supposed <hi>Jacobites</hi> accused by you, have actually conspired with <hi>France</hi> for the Inva<g ref="char:EOLhyphen"/>sion of their Countrey, and Destruction of the Government; you only prove on the upshot, that they must do so because they are <hi>Jacobites.</hi> Just <hi>Roger</hi>'s arguing— A Beast of a <hi>Trimmer,</hi> or a Whigg, or Fanatick, are certainly forming Plots against the State, only because they are called by those Names. We may at least now argue as closely— <hi>Testimony</hi> has several scruples against the Church— therefore he'll ne're be at rest till he has destroy'd it. Is there no Medium between these two. Is't not possible to live peaceably and honestly even under the Misfortune of an er<g ref="char:EOLhyphen"/>roneous Conscience, nay, to carry it better than those who are in the right? In Gods Name let all Traytors have their due— the Axe is sharp enough, and the Halter strong enough, and the Law powerful enough to tame 'em, but by no means can I think <hi>Testimony</hi> a proper Person to be Judge, Jury, Evidence, Hangman and all, nor seems it much fairer at this time of day to give <hi>ill Names,</hi> which may be worse than either a <hi>half</hi> or whole <hi>Hanging.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>I say again, that a Man of that Pomp of Stile, that Geny, and all that, wou'd ne<g ref="char:EOLhyphen"/>ver offer to talk at this rate unless he were sure of what he said.</p>
+               </sp>
+               <pb n="21" facs="tcp:96785:12"/>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>When people are angry they seldom speak no more than they'll Swear to. An enraged Stile is here visible in every Paragraph, accom<g ref="char:EOLhyphen"/>pany'd with an assurance as commonly the mark of weak as good Evidence. Things are already bad enough, we have Villains enough, and but too many, who we are assured both by Procla<g ref="char:EOLhyphen"/>mation, Confessions, and concurring abundant Evidence, have actually form'd a design at least to assist, and we may thence fairly argue to in<g ref="char:EOLhyphen"/>vite the Destroyers of the World to come hi<g ref="char:EOLhyphen"/>ther— But why shou'd any delight to weaken the Hands of those who really Love, and to the Death wou'd defend their Countrey, by perswa<g ref="char:EOLhyphen"/>ding 'em there are more herein engaged than re<g ref="char:EOLhyphen"/>ally are so? Deserves not he to be punish'd as a Disperser of false News, who should pretend Thirty Thousand <hi>French</hi> were Landed, and march<g ref="char:EOLhyphen"/>ing up into the Countrey, laying it all under Con<g ref="char:EOLhyphen"/>tribution or Ashes, when only a few Sheep-stealers stroll'd Ashore on a Common by the Sea side? 'Tis something of a parallel case here, and I won<g ref="char:EOLhyphen"/>der how you <hi>Testimony!</hi> who, I'm satisfied, do really, in your way, love your Countrey so well, shou'd yet be so forward to believe so many more Rogues in it, unfit to live, than are or can ever be proved to be so.</p>
+                  <p>I wou'd fain know whether you are really still of the same mind you were t'other day. That <hi>the Nation in</hi> Asia <hi>did well who Sacrificed their Priests when their Gods were angry?</hi> If you don't approve of it, why do you bring it? Examples are
+<pb n="22" facs="tcp:96785:13"/>not produced for nothing, and this has a fair aim, and a very broad one— It seems the <hi>Testimonies</hi> of <hi>Asia</hi> were near akin to ours— the Historian gives us no account of their distinguishing be<g ref="char:EOLhyphen"/>tween one and t'other— Those who taught 'em aright, and those who did not— Then besides, you ought to have told us the rest of the Story— sure that just and pious Nation, whoever they were, must to make all things even, Sacrifice all those who wou'd not heed what the Priest told 'em in order to appease their Gods when he did his Duty; as well as the Priest for not doing it in giving 'em due warning. Was not there a great deal of need, <hi>Testimony!</hi> For the Authors assuring us he was no Clergy man? Tho' had he been so, this Advice wou'd have been much more generous, there had been something then of the <hi>Roman</hi> in't, and we durst not have doubt<g ref="char:EOLhyphen"/>ed but he himself had first leapt into the Flames, and devoted himself for his Countrey— for a Man of so much Worth, and such a Figure as he makes, wou'd have been a more valuable Sacrifice than half a thousand little Wretches of 10. <hi>l.</hi> a year whom he's so brisk upon.</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>The Truth is that passage is a lit<g ref="char:EOLhyphen"/>tle sharp— but then 'tis so pleasant, and there's so much Wit and Satyr in't that 'tis pity it shou'd have been left out— for 'tis one of the best Flow<g ref="char:EOLhyphen"/>ers there.</p>
+               </sp>
+               <sp>
+                  <speaker>Trim.</speaker>
+                  <p>I remember I have read somewhere among the cursed Barbarities the poor Protestants suffered in
+<pb n="23" facs="tcp:96785:13"/>
+                     <hi>Ireland</hi> from their devilish Persecutors, some of those Monsters wou'd at their Feasts and Merry-Meetings have several of these poor Creatures brought in be<g ref="char:EOLhyphen"/>fore their Company, and cut and wound them for their diversion, only to see how nimbly they leapt up and down when thus Tormented; and in this they thought themselves the wittiest People, and That, the most Comical Entertainment in the World. The Question in this Case, as well as ours, is, Whether or no the Matter will bear Jesting? 'Tis too home a Jest to set the Rabble a Limbing the Clergy where<g ref="char:EOLhyphen"/>ever they meet 'em, like Cocks at <hi>Shrove-tide;</hi> and if they spoil a good Jest by not pushing it home, there wants however no good will in him who has done his part towards it.</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>You misrepresent and abuse the Gen<g ref="char:EOLhyphen"/>tleman: See here, he explains it lower. He only <hi>Wonders</hi> the Nation had not, on the Loss sustain'd from the <hi>French</hi> Fleet, <hi>Dewitted some</hi> of <hi>'em,</hi> not <hi>all.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>Most abundantly Civil. He does not invite, or perswade 'em to it, but only <hi>Wonders</hi> they stand still like Fools, with their Thumbs in their Mouths, or their Hands in their Pockets, and don't rouze themselves, feel their own Strength, chuse some <hi>Massianello</hi> to head 'em, down with <hi>Canterbury</hi> and <hi>Lambeth,</hi> as formerly with the Popish Mass-Houses, and send those in the inside after the Arch Bishop of
+<pb n="24" facs="tcp:96785:14"/>St. <hi>Andrews.</hi> Not that he'd have <hi>All</hi> the Priests in <hi>England</hi> serv'd so: He'd have a few left for Breeders, or to say Grace, and to teach young Mr. his <hi>Pro<g ref="char:EOLhyphen"/>pria-quae-maribus</hi> now and then. Two things <hi>Testi<g ref="char:EOLhyphen"/>mony,</hi> a Man less hot then you wou'd have con<g ref="char:EOLhyphen"/>sider'd; First, <hi>Are they Guilty?</hi> Secondly, <hi>Are these the Judges?</hi> Things both not unworthy Consider<g ref="char:EOLhyphen"/>ation, before you ought to have proceeded to Judg<g ref="char:EOLhyphen"/>ment and Execution.</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>Well; Whether or no his Passion might carry him a little too far, this is sure, The Nation has been notoriously <hi>Priest-ridden</hi> these many Years: 'Tis now grown weary of being so any lon<g ref="char:EOLhyphen"/>ger; and if in throwing their Riders they do happen to give 'em a small rub on the Shins into the bargain, I think 'tis no great matter.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>Will Passion excuse a single <hi>Murder;</hi> much less a general one, which I think is no other than a <hi>Massacre?</hi> How far the Nation has been Priest-ridden, as your People love so civilly to word it, I care not to enquire, wishing there had been for<g ref="char:EOLhyphen"/>merly no more ground for this pretence then is now. This I own too true; too many of <hi>them</hi> were for<g ref="char:EOLhyphen"/>merly <hi>Court-ridden,</hi> some from Interest, others, I que<g ref="char:EOLhyphen"/>stion not, out of Conscience. But were these the only Men who were so? Besides, though some might be, and were thus byass'd; Is this now the Vice of the Age, or not rather the contrary? Han't the Stage, the
+<pb n="25" facs="tcp:96785:14"/>Philosophers been employ'd to Ridicule and expose them, and Vilifie that Society of Man, as well as Religion and common Honesty, for now almost half an Age; And han't they made a fair Progress in this their Design? What would content some People? Would you have 'em all be <hi>Gibeonites?</hi> Is not <hi>Ten Pound a Year</hi> little enough for 'em that you'd have 'em still closer to the Grind-stone? Ask the meaning of being <hi>Priest-Ridden</hi> of very many who are most angry with the Word, and Ten to One but you'll have it explain'd, by <hi>believing those Tales they tell in their Pul<g ref="char:EOLhyphen"/>pits, of Vice, and Vertue here, and a future State when this is ended.</hi> Thus, between the Atheist of one Side, the Superstitious Bigot of tother, either for or against little things, in Comparison of our Liberty and Reli<g ref="char:EOLhyphen"/>gion; 'tis so hard to find a true Wise, Honest Man, that one may walk as long as <hi>Diogenes</hi> did, before we meet that Miracle.</p>
+               </sp>
+               <sp>
+                  <speaker>Hot-head.</speaker>
+                  <p>You have talkt so much Reason both against and for me, that I acknowledge my self con<g ref="char:EOLhyphen"/>vinced of the Weakness of much of my Prejudice; but yet you your self own so much of what I Assert<g ref="char:EOLhyphen"/>ed to be true, that from thence it appears, tho I had never so great a Love to my Countrey, I must be put on defending my self, before I meet more distant Dan<g ref="char:EOLhyphen"/>gers; and tho never so much a Friend to Peace and Unity, must yet never expect any Truce or Compre<g ref="char:EOLhyphen"/>hension with <hi>Testimony,</hi> who hates me worse then all the Seven deadly Sins together.</p>
+               </sp>
+               <pb n="26" facs="tcp:96785:15"/>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>I can prevent his Answer, for 'tis but repeating what you have said, and you are really both of you too much in the right. You're both of you Men of Sence enough, where Passion don't blind ye, both <hi>Englishmen,</hi> and both my Friends, and 'twould be a happy Day for you, me, and Old <hi>England,</hi> if you were as much so to one another: The very way to make you so, I'll tell you in short, if you'll follow it. Forget all these Objections, you have made on either side. Do as <hi>Constantine</hi> did, (and save our <hi>Constan<g ref="char:EOLhyphen"/>tine</hi> the Labour of doing it for you;) burn all Com<g ref="char:EOLhyphen"/>plaints of both sides; for as there's no quarrelling, un<g ref="char:EOLhyphen"/>less two Persons are resolv'd on't, so to be sure, there can be no Agreement, unless both have a mind to't: Consider, how all <hi>Europe</hi> are link'd in a firm Bow, against their common Enemy; not only <hi>Lutheran</hi> with <hi>Calvanists,</hi> and <hi>Zuinglians</hi> with both; but even Papists, with Protestants, to pull down the <hi>French</hi> Tirant, whose Ruine seems very near, unless we shore him up by our own Follies; nor certainly is the breach greater between us then those whom Interest only unites, tho' as has been said of different Sentiments, Religions, and Nations; nay, even National Antipathies are laid asleep, and drowned in the main Cause, as in De<g ref="char:EOLhyphen"/>luges, were Dogs and Cats are agreed.</p>
+               </sp>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>For my part all I desire is Security to enjoy my own, Liberty to serve my Country, and Satisfaction that my Brother <hi>Hot-head</hi> here does re<g ref="char:EOLhyphen"/>nounce
+<pb n="27" facs="tcp:96785:15"/>King <hi>James,</hi> and all his Works; and then I'd be his Friend for ever, draw my long Sword, and Fight by his Side as long as I can stand, a<g ref="char:EOLhyphen"/>gainst them whose most effectual Plot I begin to think has been setting us together by the Ears.</p>
+               </sp>
+               <sp>
+                  <speaker>Hot head.</speaker>
+                  <p>And I only wish I may be secured in what the Law has given me, and the Church stand firm on that legal <hi>Basis</hi> which has stood proof against all Assaults for above this hundred Year.</p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>Now the business begins to look with a good Face, both these are easily done; and I wish heartily you two cou'd Subscribe to this Arbitration, in the Name of all the rest concern'd. You ought therefore to give mutual Satisfaction and Releases to each other from this day back-ward, to the be<g ref="char:EOLhyphen"/>ginning of the World, and the work is done.</p>
+               </sp>
+               <sp>
+                  <speaker>Hot-head.</speaker>
+                  <p>
+                     <q>I Solemnly Declare, That I neither do, or ever did know of any Plot against Their present Majesties K. <hi>William,</hi> and Q. <hi>Mary,</hi> whom God preserve; but abhor any such thing, as I do any <hi>French</hi> Invasion, or any pretence of the Late King <hi>James,</hi> but will oppose both to the utmost of my power; and resolve for the future to live in Peace and Unity with my Brother <hi>Testimony,</hi> if he'll give me leave.</q>
+                  </p>
+               </sp>
+               <pb n="28" facs="tcp:96785:16"/>
+               <sp>
+                  <speaker>Testimony.</speaker>
+                  <p>
+                     <q>I <hi>Obadiah Testimony</hi> do likewise on my part Declare, That I have no design of Intro<g ref="char:EOLhyphen"/>ducing a Common-wealth, or pulling down the Church of <hi>England,</hi> but only desire to live peace<g ref="char:EOLhyphen"/>ably and Friendly with my Brother <hi>Hot-head,</hi> and all other honest Men.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Trimmer.</speaker>
+                  <p>And is not this much better then pul<g ref="char:EOLhyphen"/>ling of Quoifs, or splitting of Lungs? After all, I hope you, and others, will take fair warning, nei<g ref="char:EOLhyphen"/>ther to give cause of Suspition or Anger: Of one side the Nation has newly recovered its Liberty, of which 'tis so very justly Jealous, as almost to excuse even extravagant Resentments against such whom they have any fair ground to suspect endeavour to bring back their old Slavery. On the other, no ho<g ref="char:EOLhyphen"/>nest Man but must take it not very kindly, either to be rank'd among Rogues when he does not deserve it, or treated as such, though he abhor them and their Designs, as much as those who accuse him for being a sharer in them.</p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <pb facs="tcp:96785:16"/>
+            <head>Books Sold by <hi>John Harris,</hi> at the <hi>Har<g ref="char:EOLhyphen"/>row</hi> in the <hi>Poultrey.</hi>
+            </head>
+            <p n="1">1. <hi>ANgliae Metropolis:</hi> or the <hi>Present State of Lon<g ref="char:EOLhyphen"/>don:</hi> With Memorials comprehending a Full and Succinct Account of the Antient and Modern State thereof: Its Original, Government, Rights, Liber<g ref="char:EOLhyphen"/>ties, Charters, Trade, Customs, Priviledges, and other Remarkables, <hi>&amp;c.</hi> First Written by the late Ingenuous, <hi>Tho. Delaune,</hi> Gent. and continued to this present Year by a Careful Hand. Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p n="2">2. THE <hi>Naked Truth:</hi> or, the <hi>True State of the Primitive Church:</hi> Concerning, 1. Articles of Faith. 2. An Appendix to the former Subject. 3. Ceremonies and Church-Service. 4. Church-Ser<g ref="char:EOLhyphen"/>vice. 5. Preaching. 6. Bishops and Priests. 7. Dea<g ref="char:EOLhyphen"/>cons. 8. Confirmation. 9. Church-Government. 10. A Charitable Admonition to all Nonconformists; By an humble Moderator, said to be the Right Reve<g ref="char:EOLhyphen"/>rend Father in God, <hi>Herbert,</hi> Lord Bishop of <hi>Hereford.</hi> Price Stitched 1 <hi>s.</hi>
+            </p>
+            <p n="3">3. <hi>SIdney Redivivus:</hi> or, the Opinion of the late Honourable Collonel <hi>Sidney,</hi> as to Civil Go<g ref="char:EOLhyphen"/>vernment,
+<pb facs="tcp:96785:17"/>wherein is Asserted, and clearly Proved, That the Power of Kings is founded in the consent of the People; who have a Right to call them to an Ac<g ref="char:EOLhyphen"/>count for Male Administration; and to restore them<g ref="char:EOLhyphen"/>selves to their Native Liberty; by which the Pro<g ref="char:EOLhyphen"/>ceedings of the Nation against the Late King <hi>James</hi> are justified. Together, with some Reflections on what is said by Ill-Men, against the present Govern<g ref="char:EOLhyphen"/>ment. Price 3 <hi>d.</hi>
+            </p>
+            <p n="4">4. THE Rational Sceptist, By a Person of Ho<g ref="char:EOLhyphen"/>nour. Price 3 <hi>d.</hi>
+            </p>
+            <p n="5">5. THE <hi>Royal Voyage:</hi> Or, the <hi>Irish Expedition:</hi> A Tragi-comedy, Acted in the Years, 1689, and 90. Price 1 <hi>s.</hi> Sold by <hi>R. Baldwin,</hi> in the <hi>Old-Bayly.</hi>
+            </p>
+            <trailer>The End.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
